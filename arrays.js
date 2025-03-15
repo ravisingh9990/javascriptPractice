@@ -183,3 +183,4 @@ console.log(fruitsListFind);
 //output: mango
 
 //20. find the index of an item in an array
+//the index of an item in an array is found using the findIndex method.
